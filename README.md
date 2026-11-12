@@ -44,6 +44,7 @@
 - 🗓 [MeridiMeet](https://meridibrand.com/meet/) — schedule polls
 - 🔤 [MeridiLingo](https://meridibrand.com/lingo/) — phrase book
 - 🌌 [MeridiStars](https://meridibrand.com/stars/) — planetarium
+- 🌊 [MeridiDepths](https://meridibrand.com/depths/) — deep-sea explorer
 - ⌨️ [MeridiSync](https://meridistore.booth.pm/items/8790105) — text snippet expander
 - 🏠 [meridibrand.com](https://meridibrand.com/)
 
