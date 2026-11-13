@@ -41,11 +41,13 @@
 ☕ **https://buymeacoffee.com/meridius**
 
 ## Other tools by Meridi Brand
-- 🗓 [MeridiMeet](https://meridibrand.com/meet/) — schedule polls
-- 🔤 [MeridiLingo](https://meridibrand.com/lingo/) — phrase book
+- 📅 [MeridiMeet](https://meridibrand.com/meet/) — schedule polls across time zones
+- 🐾 [MeridiLingo](https://meridibrand.com/lingo/) — 760+ real-world English expressions & AI prompts
+- 💻 [MeridiSync](https://meridistore.booth.pm/items/8790105) — text snippet expander for Windows
 - 🌌 [MeridiStars](https://meridibrand.com/stars/) — planetarium
+- 🪨 MeridiGround — from the sky to Earth's core (coming soon)
 - 🌊 [MeridiDepths](https://meridibrand.com/depths/) — deep-sea explorer
-- ⌨️ [MeridiSync](https://meridistore.booth.pm/items/8790105) — text snippet expander
+- 🧮 [MeridiConvert](https://meridibrand.com/convert/) — unit converter & handy calculators
 - 🏠 [meridibrand.com](https://meridibrand.com/)
 
 ## License
